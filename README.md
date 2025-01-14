@@ -32,10 +32,8 @@ The application allows for:
 - Export results to CSV file for easy data storage and analysis.
 
 ## Screenshots
-![Example screenshot](./images/main_screen.png)
-![Example screenshot](./images/data_entry_page.png)
-![Example screenshot](./images/result_page.png)
-![Example screenshot](./images/metrics.png)
+![Example screenshot](./images/gui.png.png)
+![Example screenshot](./images/signal_visualization.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
@@ -45,7 +43,7 @@ To set up the project, follow these steps:
 - Make sure you have the Python interpreter installed on your computer. You can download the latest version from Python.org. 
 - Clone the repository: git clone 'https://github.com/akiszkiel/Breast-Cancer-Prediction-App.git'.
 - Install dependencies: 'pip install -r requirements.txt'.
-- Run the application: 'python gui.py'.
+- Run the application: 'python main.py'.
 
 
 ## Project Status
