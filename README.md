@@ -32,7 +32,7 @@ The application allows for:
 - Export results to CSV file for easy data storage and analysis.
 
 ## Screenshots
-![Example screenshot](./images/gui.png.png)
+![Example screenshot](./images/gui.png)
 ![Example screenshot](./images/signal_visualization.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
