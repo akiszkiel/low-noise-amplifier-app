@@ -41,7 +41,7 @@ The application allows for:
 To set up the project, follow these steps:
 
 - Make sure you have the Python interpreter installed on your computer. You can download the latest version from Python.org. 
-- Clone the repository: git clone 'https://github.com/akiszkiel/Breast-Cancer-Prediction-App.git'.
+- Clone the repository: git clone 'https://github.com/akiszkiel/low-noise-amplifier-app.git'.
 - Install dependencies: 'pip install -r requirements.txt'.
 - Run the application: 'python main.py'.
 
